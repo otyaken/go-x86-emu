@@ -1,2 +1,2 @@
 # go-x86-emu
-Sinple go x86 emulator
+Simple go x86 emulator
